@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/vladislavfiliucov/work/recruitment_ringley'
+let g:netrw_dirhist_2='/Users/vladislavfiliucov/work/letting_agency'
+let g:netrw_dirhist_3='/Users/vladislavfiliucov/work/recruitment_ringley'
+let g:netrw_dirhist_4='/Users/vladislavfiliucov/work/letting_agency'
